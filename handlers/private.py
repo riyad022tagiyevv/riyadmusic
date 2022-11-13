@@ -14,15 +14,15 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ Grubuna Ekle ❱ ➕", url=f"https://t.me/KafkazMusicbot?startgroup=true"
+                        "➕ ❰ Grubuna Ekle ❱ ➕", url=f"https://t.me/RiyadMusicbot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 Asistan", url="https://t.me/KafkazMusicasistan"
+                        "🔊 Asistan", url="https://t.me/RiyadMusicasistan"
                     ),
                     InlineKeyboardButton(
-                        "💬 Sohbet", url="https://t.me/azeqafqaz2021"
+                        "💬 Sohbet", url="https://t.me/hardasangel"
                     )
                 ],
                 [
@@ -95,7 +95,7 @@ async def herkes(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "⚙ Geliştirici", url="https://t.me/Thagiyevvvv")
+                         "⚙ Geliştirici", url="https://t.me/Thagiyevvv")
                  ],
                  [
                      InlineKeyboardButton(
@@ -113,7 +113,7 @@ async def admin(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "⚙ Geliştirici", url="https://t.me/Thagiyevvvv")
+                         "⚙ Geliştirici", url="https://t.me/Thagiyevvv")
                  ],
                  [
                      InlineKeyboardButton(
@@ -131,15 +131,15 @@ async def cbstart(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ Grubuna Ekle ❱ ➕", url=f"https://t.me/KarabakhMusicbot?startgroup=true"
+                        "➕ ❰ Grubuna Ekle ❱ ➕", url=f"https://t.me/RiyadMusicbot?startgroup=true"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔊 Asistan", url="https://t.me/KafkazMusicAsistan"
+                        "🔊 Asistan", url="https://t.me/RiyadMusicAsistan"
                     ),
                     InlineKeyboardButton(
-                        "💬 Sohbet", url="https://t.me/azeqafqaz2021"
+                        "💬 Sohbet", url="https://t.me/hardasangel"
                     )
                 ],
                 [
